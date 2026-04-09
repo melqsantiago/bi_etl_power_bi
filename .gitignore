@@ -1,0 +1,35 @@
+# --- Seguridad y Configuración ---
+.env
+secretos.py
+
+
+
+# --- Python ---
+__pycache__/
+
+.venv/
+venv/
+
+
+# --- Sistema Operativo (Mac y Windows) ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# --- IDEs (VS Code / PyCharm) ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Power BI ---
+# Ignoramos archivos temporales y copias de seguridad
+*.tmp
+*.pbit
+*.pbip
+*.pbix.temp
