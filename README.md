@@ -63,10 +63,6 @@ Clonar el repositorio:
 
 <<<<<<< HEAD
 git clone https://github.com/melqsantiago/bi_etl_power_bi.git
-=======
-git clone [https://github.com/tu-usuario/nombre-del-proyecto.git](https://github.com/melqsantiago/bi_etl_power_bi.git)
-
->>>>>>> 7712fcace311c7fa064992b2d98b5ba2a6c9ef05
 
 Configurar entorno:
 Crea un archivo .env en la raíz con las credenciales de tu base de datos:
