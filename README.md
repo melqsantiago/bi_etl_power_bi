@@ -14,6 +14,8 @@ Vista principal con KPIs.
 
 Análisis profundo de reincidencia, perfiles demográficos y tipos de violencia.
 
+
+
 Tecnologías y Herramientas
 
 Base de Datos: PostgreSQL (Arquitectura multi-esquema: voriginal y vmodelada).
@@ -25,6 +27,8 @@ Visualización: Power BI Desktop (Modelado Dimensional, DAX).
 Seguridad: Dotenv para gestión de credenciales y RLS (Row-Level Security).
 
 Automatización: Programador de Tareas de Windows / Cron.
+
+
 
 Arquitectura de la Solución
 
@@ -38,6 +42,8 @@ Data Warehouse: Almacén de datos con esquema de estrella (Star Schema).
 
 Capa de Presentación: Modelado en Power BI con medidas DAX avanzadas para el cálculo de reincidencia.
 
+
+
 Validación de Resultados (Impacto Real)
 
 Para validar la efectividad de la solución, se realizó una encuesta de satisfacción y utilidad a 119 usuarios finales.
@@ -50,12 +56,12 @@ Resultados clave:
 
 63.8% reportó un aumento significativo en su confianza al tomar decisiones basadas en datos.
 
+
 ⚙️ Instalación y Configuración
 
 Clonar el repositorio:
 
-git clone https://github.com/tu-usuario/nombre-del-proyecto.git
-
+git clone https://github.com/melqsantiago/bi_etl_power_bi.git
 
 Configurar entorno:
 Crea un archivo .env en la raíz con las credenciales de tu base de datos:
@@ -85,4 +91,4 @@ Este repositorio no contiene datos reales por razones de confidencialidad. El c�
 
 Autor
 
-Santiago - Ingeniero Informático - www.linkedin.com/in/melqui-santiago-a77536169
+Santiago - Ingeniero Informático - in/melqui-santiago-a77536169
