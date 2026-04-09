@@ -54,7 +54,7 @@ Resultados clave:
 
 Clonar el repositorio:
 
-git clone https://github.com/tu-usuario/nombre-del-proyecto.git
+git clone [https://github.com/tu-usuario/nombre-del-proyecto.git](https://github.com/melqsantiago/bi_etl_power_bi.git)
 
 
 Configurar entorno:
@@ -85,4 +85,4 @@ Este repositorio no contiene datos reales por razones de confidencialidad. El c�
 
 Autor
 
-Santiago - Ingeniero Informático - www.linkedin.com/in/melqui-santiago-a77536169
+Santiago - Ingeniero Informático - /in/melqui-santiago-a77536169
